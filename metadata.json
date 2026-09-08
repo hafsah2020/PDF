@@ -1,0 +1,6 @@
+{
+  "name": "DEER Nigeria Handbook Designer",
+  "description": "Interactive document designer, reader, and high-fidelity PDF publisher for the DEER Nigeria Staff Data Privacy & Protection Handbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
